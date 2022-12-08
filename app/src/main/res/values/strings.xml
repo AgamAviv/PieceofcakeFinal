@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PieceofcakeFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="piece_of_cake">Piece of cake</string>
+    <string name="by_agam_aviv">By Agam Aviv</string>
+    <string name="sign_in" >Sign In</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register">register</string>
+    <string name="full_name">full_name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+</resources>
